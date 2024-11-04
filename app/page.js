@@ -11,13 +11,13 @@ export default function Home() {
         </ul>
       </nav>
 
-      {/* Add the online courses section here */}
+      {/* Online courses section */}
       <section>
         <h2>online courses</h2>
         <h2>Learn Anything. On Your Schedule</h2>
         <div className="course-container">
           <div className="course-item">
-            <img src="/placeholder.png" alt="Build Skills" />
+            <img src="https://assets.nicepagecdn.com/d2cc3eaa/1292318/images/bn.jpg" alt="Build Skills" />
             <h3>BUILD SKILLS</h3>
             <p>
               Sample text. Click to select the text box. Click again or double
@@ -28,7 +28,7 @@ export default function Home() {
             </a>
           </div>
           <div className="course-item">
-            <img src="/placeholder.png" alt="Free Classes" />
+            <img src="https://assets.nicepagecdn.com/d2cc3eaa/1292318/images/kj.jpg" alt="Free Classes" />
             <h3>FREE CLASSES</h3>
             <p>
               Sample text. Click to select the text box. Click again or double
@@ -39,7 +39,7 @@ export default function Home() {
             </a>
           </div>
           <div className="course-item">
-            <img src="/placeholder.png" alt="Methodology" />
+            <img src="https://assets.nicepagecdn.com/d2cc3eaa/1292318/images/nn.jpg" alt="Methodology" />
             <h3>METHODOLOGY</h3>
             <p>
               Sample text. Click to select the text box. Click again or double
